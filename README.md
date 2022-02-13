@@ -8,6 +8,6 @@ The output is the result of the check and the number of non-matching characters 
 Installation:
 ------
 + Using IDE 
-  + Clean > Package
+  + Clean > Package;
    + Working through the IDE;
-   + Else, working throuht a console: java -jar;
+   + Else, working throuht a console: java -jar ...;
